@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Ruby and Test Driven Development"
 date:   2015-05-28 19:18:58
 categories: jekyll update
 ---
